@@ -1,4 +1,4 @@
-### Hi! I'm Pedro Vargas!
+## Hi! I'm Pedro Vargas!
 
 ---
 
@@ -10,11 +10,12 @@
 
 ---
 
-# My social medias:
+### Major skills
 
-[![GitHub](https://github.com/favicon.ico)](URL-do-seu-perfil-no-GitHub)
-[![Twitter](https://twitter.com/favicon.ico)](URL-do-seu-perfil-no-Twitter)
-<!-- E assim por diante para outras redes sociais -->
+[![Build Status](https://img.shields.io/travis/seu-usuario/seu-repositorio/master.svg)](https://travis-ci.org/seu-usuario/seu-repositorio)
+[![Version](https://img.shields.io/badge/version-1.0-blue.svg)](https://github.com/seu-usuario/seu-repositorio/releases/tag/v1.0)
+
+
 
 
 
