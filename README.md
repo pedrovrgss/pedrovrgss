@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi! I'm Pedro Vargas!
 
-<!--
-**pedrovrgss/pedrovrgss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- 📖 I'm actually studying Computer Science at UFF (Federal Fluminense University)
+- 💻 Always aiming to be the best in HTML / CSS / JavaScript / C / C++ / C# / Python
+- 🥊 Aways ready to face any kind of challenge!
+- 🍀 Healthy and Productive life
+- 🎵 Hip Hop and Rap lover!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# My social medias:
+
+[![GitHub](https://github.com/favicon.ico)](URL-do-seu-perfil-no-GitHub)
+[![Twitter](https://twitter.com/favicon.ico)](URL-do-seu-perfil-no-Twitter)
+<!-- E assim por diante para outras redes sociais -->
+
+
+
+  
