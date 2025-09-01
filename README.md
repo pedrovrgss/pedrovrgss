@@ -3,7 +3,7 @@
 
 
 * 📖 I'm actually studying Computer Science at UFF (Federal Fluminense University)
-* 💻 Always aiming to be the best in HTML / CSS / JavaScript / C / C++ / C# / Python
+* 💻 Always aiming to be the best in HTML / CSS / JavaScript / Python / Java 
 * 🥊 Aways ready to face any kind of challenge!
 * 🍀 Healthy and Productive life
 * 🎵 Hip Hop and Rap lover! 
