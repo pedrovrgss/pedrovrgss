@@ -33,8 +33,8 @@ Estudante de Ciência da Computação na **Universidade Federal Fluminense (UFF)
 
 ### 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub de [Seu Nome]](https://github-readme-stats.vercel.app/api?username=pedrovrgss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Estatísticas do GitHub de [Seu Nome]](https://github-readme-stats.vercel.app/api?username=pedrovrgss&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovrgss&layout=compact&langs_count=7&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovrgss&layout=compact&langs_count=7&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
