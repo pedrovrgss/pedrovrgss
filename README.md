@@ -3,14 +3,15 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrovrgs/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phvs2005@icloud.com)
 
-Estudante de Ciência da Computação na **Universidade Federal Fluminense (UFF)**, apaixonado por transformar dados em soluções inteligentes. Meu foco principal está nas áreas de Inteligência Artificial, Machine Learning e Análise de Dados.
+Estudante de Ciência da Computação na **Universidade Federal Fluminense (UFF)**, apaixonado por criar soluções inteligentes. Meu foco principal está na área de Engenharia de Software.
 
 ---
 
 ### 👨‍💻 Sobre Mim
 
 - 🎓 Cursando Ciência da Computação na UFF.
-- 🤖 Tenho grande interesse em Inteligência Artificial, especialmente em Machine Learning, IA Cognitiva, Visão Computacional e IA aplicada à música — incluindo sound design e separação de stems.
+- 🤖 Tenho grande interesse na área de desenvolvimento Backend
+- 💻 Trabalho há mais de 1 ano com desenvolvimento Full-Stack na empresa Pitecg.
 - 🎧 Nas horas vagas, atuo como produtor musical, engenheiro de mixagem e masterização e sound designer — explorando criatividade sonora e técnicas de áudio digital.
 
 ---
@@ -24,16 +25,16 @@ Estudante de Ciência da Computação na **Universidade Federal Fluminense (UFF)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- **Análise de Dados/ML:** Pandas, Scikit-learn, NumPy, Matplotlib
-- **Banco de Dados:** MySQL
-- **Desenvolvimento Web:** React.js, Node.js
+- **Back-end:** Java (Spring Boot), C# (.NET), Python (Flask)
+- **Front-end:** React.js, HTML, CSS, JavaScript, TypeScript
+- **Banco de Dados:** MySQL, Postgresql
 - **Ferramentas:** Git, GitHub
 
 ---
 
 ### 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub de [Seu Nome]](https://github-readme-stats.vercel.app/api?username=pedrovrgss&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true)
+![Estatísticas do GitHub de Pedro Vargas](https://github-readme-stats.vercel.app/api?username=pedrovrgss&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovrgss&layout=compact&langs_count=7&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
 
